@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=System Updater
+GenericName=System Updater
+Comment=Update all packages
+Exec=system-updater
+Icon=software-update-available-symbolic
+Terminal=true
+Type=Application
+Categories=PackageManager;System;
+StartupNotify=true
+StartupWMClass=system-updater

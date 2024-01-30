@@ -1,0 +1,7 @@
+Package: system-updater
+Version: 0.1
+Architecture: all
+Essential: no
+Priority: optional
+Maintainer: Faris Redza <faris.redza1999@gmail.com>
+Description: A system updater utility for managed Linux systems.
