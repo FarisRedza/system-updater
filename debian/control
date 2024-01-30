@@ -4,4 +4,4 @@ Architecture: all
 Essential: no
 Priority: optional
 Maintainer: Faris Redza <faris.redza1999@gmail.com>
-Description: A system updater utility for managed Linux systems.
+Description: An update utility for managed Linux systems.
