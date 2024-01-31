@@ -1,9 +1,9 @@
-BINARY_NAME = system-updater
+BIN_NAME = system-updater
 VERSION = 0.1
 
 BIN_PATH = usr/local/bin/
 APP_PATH = usr/share/applications/
-PKG_NAME = $(BINARY_NAME)_$(VERSION)-1_all.deb
+PKG_NAME = $(BIN_NAME)_$(VERSION)-1_all.deb
 
 deb_package:
 	mkdir -p PKG_SOURCE/$(BIN_PATH)
