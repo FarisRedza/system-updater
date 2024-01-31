@@ -1,2 +1,2 @@
 # system-updater
-An update utility for managed Linux systems
+An update utility for managed Ubuntu systems
