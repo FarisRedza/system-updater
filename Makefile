@@ -1,5 +1,5 @@
 NAME = system-updater
-VERSION = 0.1
+VERSION = 0.2
 PKG_VERSION = 1
 ARCH = all
 PKG_NAME = $(NAME)_$(VERSION)-$(PKG_VERSION)_$(ARCH).deb
