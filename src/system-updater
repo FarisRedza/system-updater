@@ -7,12 +7,12 @@ sudo /opt/McAfee/ens/tp/init/mfetpd-control.sh stop
 
 sudo apt update
 sudo apt install -y --fix-broken
-sudo apt upgrade -y
+sudo apt full-upgrade -y
 
 sudo snap refresh
 
 flatpak update -y
-flatpak remove --unused
+flatpak remove --unused -y
 sudo flatpak repair
 
 sudo /opt/McAfee/ens/tp/init/mfetpd-control.sh start
